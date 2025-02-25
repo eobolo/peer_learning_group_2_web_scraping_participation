@@ -30,5 +30,6 @@ pip install -r requirements.txt
 ```
 
 ## Note
+
 **Log out of your linked in account before running the webscraping python file 
 locally or running the notebook on google collab.**
