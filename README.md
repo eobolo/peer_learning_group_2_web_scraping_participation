@@ -1,6 +1,6 @@
 # peer_learning_group_2_web_scraping_participation
 
-# LinkedIn Job Scraper
+## LinkedIn Job Scraper
 
 This Python script scrapes job data from LinkedIn based on specified criteria such as job title, location, time posted, and remote work options. It then saves the extracted data into a CSV file.
 
@@ -28,3 +28,7 @@ This Python script scrapes job data from LinkedIn based on specified criteria su
 ```bash
 pip install -r requirements.txt
 ```
+
+## Note
+**Log out of your linked in account before running the webscraping python file 
+locally or running the notebook on google collab.**
