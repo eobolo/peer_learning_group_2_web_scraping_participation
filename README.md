@@ -36,5 +36,5 @@ locally or running the notebook on google collab.**
 
 
 ## Important Link
- - **[Brief report Link](https://docs.google.com/document/d/1Uy4OIqhUhP_PfrbuPTAeYlxj61-9YNI-OXdVvKhcueA/edit?usp=sharing)
-**
+ - [Brief report Link](https://docs.google.com/document/d/1Uy4OIqhUhP_PfrbuPTAeYlxj61-9YNI-OXdVvKhcueA/edit?usp=sharing)
+
