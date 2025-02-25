@@ -8,9 +8,9 @@ Original file is located at
 """
 
 # Import relevant packages
-import requests
-from bs4 import BeautifulSoup
-import pandas as pd
+import requests # type: ignore
+from bs4 import BeautifulSoup # type: ignore
+import pandas as pd # type: ignore
 import datetime
 import random
 import math
